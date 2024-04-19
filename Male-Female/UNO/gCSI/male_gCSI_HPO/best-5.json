@@ -1,0 +1,10 @@
+{
+  "train_ml_data_dir": "/tmp/weaverr/Data/imbalanced-data/gCSI/male_ml_data",
+  "val_ml_data_dir": "/tmp/weaverr/Data/imbalanced-data/gCSI/male_ml_data",
+  "model_outdir": "./out_model",
+  "hyperparam_space": "global",
+  "epochs": 200,
+  "batch_size": 8,
+  "raw_max_lr": 8.130122125309504e-05,
+  "dropout": 0.0
+}
