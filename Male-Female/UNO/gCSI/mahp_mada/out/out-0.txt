@@ -1,0 +1,27 @@
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0008'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0008/model.log
+candle_model_train_container(): result(run_01_001_0020): '0.00906394182110596'
+candle_model_train_container(): result(run_01_001_0013): '0.009239882702791006'
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0001
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0004'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0004/model.log
+candle_model_train_container(): result(run_01_001_0023): '0.008228346112632035'
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0024
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0017'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0017/model.log
+candle_model_train_container(): result(run_01_001_0014): '0.00934142568698325'
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0000
+candle_model_train_container(): result(run_01_001_0001): '0.009020910102122416'
+candle_model_train_container(): result(run_01_001_0024): '0.008323336404886661'
+candle_model_train_container(): result(run_01_001_0010): '0.008578645688738517'
+candle_model_train_container(): result(run_01_001_0007): '0.009955656664519046'
+candle_model_train_container(): result(run_01_001_0017): '0.008387939469892998'
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0009'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0009/model.log
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0019'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0019/model.log
+candle_model_train_container(): result(run_01_001_0012): '0.008452876658275831'
+candle_model_train_container(): result(run_01_001_0018): '0.008718431333223399'
+candle_model_train_container(): result(run_01_001_0006): '0.008639061805223653'
+candle_model_train_container(): result(run_01_001_0015): '0.00934597601253626'
+candle_model_train_container(): result(run_01_001_0019): '0.0083604386449608'

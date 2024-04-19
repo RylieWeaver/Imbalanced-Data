@@ -1,0 +1,24 @@
+2024-04-17 02:14:39 DEAP INFO  OPTIMIZATION START
+2024-04-17 02:14:39 DEAP INFO  HPO PARAMS START
+2024-04-17 02:14:39 DEAP INFO  num_iter:    1
+2024-04-17 02:14:39 DEAP INFO  num_pop:    25
+2024-04-17 02:14:39 DEAP INFO  seed:     757365
+2024-04-17 02:14:39 DEAP INFO  HPO PARAMS STOP
+2024-04-17 02:14:39 DEAP INFO  params_file: /nfs/lambda_stor_01/homes/weaverr/Tests/sv-tool/UNO/male_hyperparams.json
+2024-04-17 02:14:39 DEAP INFO  GENERATION: 1 START: pop: 25
+2024-04-17 02:59:47 DEAP INFO  GENERATION: 1 STOP.  duration: 2707.780
+2024-04-17 02:59:47 DEAP INFO  RESULTS: values: 25 NaNs: 0
+gen	nevals	avg       	std       	min       	max      	ts               
+0  	25    	0.00872763	0.00054307	0.00764444	0.0101783	1713347987.174833
+2024-04-17 02:59:47 DEAP INFO  OPTIMIZATION STOP
+2024-04-17 02:59:47 DEAP INFO  BEST: 0.007644439489402239 == ...
+{
+  "train_ml_data_dir": "/tmp/weaverr/Data/imbalanced-data/gCSI/female_ml_data",
+  "val_ml_data_dir": "/tmp/weaverr/Data/imbalanced-data/gCSI/female_ml_data",
+  "model_outdir": "./out_model",
+  "hyperparam_space": "global",
+  "epochs": 200,
+  "batch_size": 8,
+  "raw_max_lr": 8.130122125309504e-05,
+  "dropout": 0.0
+}

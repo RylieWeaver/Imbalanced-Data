@@ -1,0 +1,65 @@
+
+report_env() ...
+
+TURBINE_HOME: /homes/woz/Public/sfw/swift-t/2022-11-02/turbine
+
+PATH: /homes/woz/Public/sfw/Anaconda/bin
+PATH: /homes/woz/Public/sfw/swift-t/2022-11-02/stc/bin
+PATH: /homes/weaverr/.local/bin
+PATH: /homes/weaverr/miniconda3/envs/IMPROVE/bin
+PATH: /nfs/lambda_stor_01/homes/weaverr/.vscode-server/bin/0ee08df0cf4527e40edc9aa28f4b5bd38bbff2b2/bin/remote-cli
+PATH: /homes/weaverr/.local/bin
+PATH: /homes/weaverr/miniconda3/envs/IMPROVE/bin
+PATH: /homes/weaverr/miniconda3/condabin
+PATH: /homes/weaverr/.local/bin
+PATH: /usr/local/sbin
+PATH: /usr/local/bin
+PATH: /usr/sbin
+PATH: /usr/bin
+PATH: /sbin
+PATH: /bin
+PATH: /usr/games
+PATH: /usr/local/games
+PATH: /snap/bin
+PATH: /homes/weaverr/Supervisor/bin
+PATH: /homes/weaverr/Supervisor/bin
+
+LLP: /homes/woz/Public/sfw/R-4.1.0/lib/R/lib
+LLP: 
+
+
+PYTHONPATH: /homes/woz/Public/sfw/swift-t/2022-11-02/turbine/py
+PYTHONPATH: 
+PYTHONPATH: /homes/weaverr/Model_Curation/Python_Libs/IMPROVE
+PYTHONPATH: /homes/weaverr/Model_Curation/Python_Libs/candle_lib
+PYTHONPATH: /nfs/lambda_stor_01/homes/weaverr/Supervisor/workflows/common/python
+PYTHONPATH: /nfs/lambda_stor_01/homes/weaverr/Supervisor/models/OneD
+PYTHONPATH: /nfs/lambda_stor_01/homes/weaverr/Supervisor/models/Random
+PYTHONPATH: /nfs/lambda_stor_01/homes/weaverr/Supervisor/models/Comparator
+PYTHONPATH: /nfs/lambda_stor_01/homes/weaverr/Supervisor/workflows/common/ext/EQ-Py
+PYTHONPATH: /nfs/lambda_stor_01/homes/weaverr/Supervisor/workflows/common/ext/EQ-Py
+PYTHONPATH: /nfs/lambda_stor_01/homes/weaverr/Supervisor/workflows/common/python
+
+PYTHON: /homes/woz/Public/sfw/Anaconda/bin/python
+PYTHON: /homes/woz/Public/sfw/Anaconda/bin/python3
+
+report_env() done.
+
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0014'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0014/model.log
+candle_model_train_container(): result(run_01_001_0008): '0.008623630817695549'
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0004
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0010'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0010/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0021
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0000'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0000/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0015
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0006'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0006/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0002
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0018'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP006/run_01_001_0018/model.log
+candle_model_train_container(): result(run_01_001_0016): '0.008845289672735727'
+candle_model_train_container(): result(run_01_001_0002): '0.009266430833923976'
+End rank: 5
