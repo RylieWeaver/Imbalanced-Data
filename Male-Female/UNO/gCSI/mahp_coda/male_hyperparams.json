@@ -1,0 +1,45 @@
+[
+
+  {
+    "name": "train_ml_data_dir",
+    "type": "constant",
+    "value": "/tmp/weaverr/Data/imbalanced-data/gCSI/combined_ml_data"
+  },
+  {
+    "name": "val_ml_data_dir",
+    "type": "constant",
+    "value": "/tmp/weaverr/Data/imbalanced-data/gCSI/combined_ml_data"
+  },
+  {
+    "name": "model_outdir",
+    "type": "constant",
+    "value": "./out_model"
+  },
+  {
+    "name": "hyperparam_space",
+    "type": "constant",
+    "value": "global"
+  },
+  {
+    "name": "epochs",
+    "type": "constant",
+    "value": 200
+  },
+  {
+    "name": "batch_size",
+    "type": "constant",
+    "value": 8
+  },
+
+  {
+    "name": "raw_max_lr",
+    "type": "constant",
+    "value": 8.130122125309504e-05
+  },
+  {
+    "name": "dropout",
+    "type": "constant",
+    "value": 0.0
+  }
+
+]
