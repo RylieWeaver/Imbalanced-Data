@@ -1,0 +1,231 @@
+
+report_env() ...
+
+TURBINE_HOME: /homes/woz/Public/sfw/swift-t/2022-11-02/turbine
+
+PATH: /homes/woz/Public/sfw/Anaconda/bin
+PATH: /homes/woz/Public/sfw/swift-t/2022-11-02/stc/bin
+PATH: /homes/weaverr/.local/bin
+PATH: /homes/weaverr/miniconda3/envs/IMPROVE/bin
+PATH: /nfs/lambda_stor_01/homes/weaverr/.vscode-server/bin/0ee08df0cf4527e40edc9aa28f4b5bd38bbff2b2/bin/remote-cli
+PATH: /homes/weaverr/.local/bin
+PATH: /homes/weaverr/miniconda3/envs/IMPROVE/bin
+PATH: /homes/weaverr/miniconda3/condabin
+PATH: /homes/weaverr/.local/bin
+PATH: /usr/local/sbin
+PATH: /usr/local/bin
+PATH: /usr/sbin
+PATH: /usr/bin
+PATH: /sbin
+PATH: /bin
+PATH: /usr/games
+PATH: /usr/local/games
+PATH: /snap/bin
+PATH: /homes/weaverr/Supervisor/bin
+PATH: /homes/weaverr/Supervisor/bin
+
+LLP: /homes/woz/Public/sfw/R-4.1.0/lib/R/lib
+LLP: 
+
+
+PYTHONPATH: /homes/woz/Public/sfw/swift-t/2022-11-02/turbine/py
+PYTHONPATH: 
+PYTHONPATH: /homes/weaverr/Model_Curation/Python_Libs/IMPROVE
+PYTHONPATH: /homes/weaverr/Model_Curation/Python_Libs/candle_lib
+PYTHONPATH: /nfs/lambda_stor_01/homes/weaverr/Supervisor/workflows/common/python
+PYTHONPATH: /nfs/lambda_stor_01/homes/weaverr/Supervisor/models/OneD
+PYTHONPATH: /nfs/lambda_stor_01/homes/weaverr/Supervisor/models/Random
+PYTHONPATH: /nfs/lambda_stor_01/homes/weaverr/Supervisor/models/Comparator
+PYTHONPATH: /nfs/lambda_stor_01/homes/weaverr/Supervisor/workflows/common/ext/EQ-Py
+PYTHONPATH: /nfs/lambda_stor_01/homes/weaverr/Supervisor/workflows/common/ext/EQ-Py
+PYTHONPATH: /nfs/lambda_stor_01/homes/weaverr/Supervisor/workflows/common/python
+
+PYTHON: /homes/woz/Public/sfw/Anaconda/bin/python
+PYTHON: /homes/woz/Public/sfw/Anaconda/bin/python3
+
+report_env() done.
+
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0043
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0020
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0035
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0031'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0031/model.log
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0026'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0026/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0000
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0027'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0027/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0023
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0042'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0042/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0022
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0014
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0025'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0025/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0049
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0048'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0048/model.log
+candle_model_train_container(): result(run_01_001_0038): '0.10846182401960786'
+candle_model_train_container(): result(run_01_001_0025): '0.011904079835195725'
+candle_model_train_container(): result(run_01_001_0044): '0.10846182401960786'
+candle_model_train_container(): result(run_01_001_0009): '0.036548200999935276'
+candle_model_train_container(): result(run_01_001_0049): '0.10846182401960786'
+candle_model_train_container(): result(run_01_001_0041): '0.035288037716614304'
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0030'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0030/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0017
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0037'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0037/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0039
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0011
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0002'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0002/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0015
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0045'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_001_0045/model.log
+candle_model_train_container(): result(run_01_001_0033): '0.015143633098143731'
+candle_model_train_container(): result(run_01_001_0034): '0.026408770423217785'
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_002_0018
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_002_0023'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_002_0023/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_002_0013
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_002_0007'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_002_0007/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_002_0008
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_002_0004'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_002_0004/model.log
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_002_0010'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_002_0010/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_002_0024
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_002_0003'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_002_0003/model.log
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0009'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0009/model.log
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0001'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0001/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0017
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0014'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0014/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0016
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0000'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0000/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0000
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0009
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0006'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0006/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0019
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0012
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0015'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_003_0015/model.log
+candle_model_train_container(): result(run_01_003_0015): '0.04013401064890864'
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_004_0020'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_004_0020/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_004_0013
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_004_0008'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_004_0008/model.log
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_004_0010'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_004_0010/model.log
+candle_model_train_container(): result(run_01_004_0018): '0.010853373263332595'
+candle_model_train_container(): result(run_01_004_0024): '0.10846182401960786'
+candle_model_train_container(): result(run_01_004_0013): '0.011339201760491628'
+candle_model_train_container(): result(run_01_004_0001): '0.014317177559494968'
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_004_0011
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_004_0021'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_004_0021/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_004_0022
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_004_0016'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_004_0016/model.log
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_004_0005'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_004_0005/model.log
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_005_0018'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_005_0018/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_005_0001
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_005_0010'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_005_0010/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_005_0009
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_005_0022
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_005_0006'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_005_0006/model.log
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_005_0002'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_005_0002/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_005_0012
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_005_0005
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_005_0015'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_005_0015/model.log
+candle_model_train_container(): result(run_01_005_0011): '0.010017943393639962'
+candle_model_train_container(): result(run_01_005_0009): '0.010145496924188552'
+candle_model_train_container(): result(run_01_005_0006): '0.013278771895987395'
+candle_model_train_container(): result(run_01_005_0010): '0.0155001885820898'
+candle_model_train_container(): result(run_01_005_0005): '0.01080681965348644'
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_006_0019'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_006_0019/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_006_0024
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_006_0003
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_006_0011'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_006_0011/model.log
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_006_0016'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_006_0016/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_006_0018
+candle_model_train_container(): result(run_01_006_0006): '0.009887145384401243'
+candle_model_train_container(): result(run_01_006_0002): '0.010221617777041572'
+candle_model_train_container(): result(run_01_006_0015): '0.01291807512561577'
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0018
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0019'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0019/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0007
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0008'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0008/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0004
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0001'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0001/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0010
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0017'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0017/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0011
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0000'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0000/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0009
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0016'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0016/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0006
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0002'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0002/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0005
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0012'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_007_0012/model.log
+candle_model_train_container(): result(run_01_007_0002): '0.009539718515030469'
+candle_model_train_container(): result(run_01_007_0005): '0.014646448699453826'
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_008_0023'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_008_0023/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_008_0004
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_008_0001'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_008_0001/model.log
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_008_0016'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_008_0016/model.log
+candle_model_train_container(): result(run_01_008_0019): '0.013752895732831939'
+candle_model_train_container(): result(run_01_008_0012): '0.0094477112386279'
+candle_model_train_container(): result(run_01_008_0015): '0.01702233267026756'
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_009_0018'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_009_0018/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_009_0013
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_009_0007'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_009_0007/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_009_0004
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_009_0001'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_009_0001/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_009_0022
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_009_0006
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_009_0016'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_009_0016/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_009_0015
+mkdir: created directory '/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_009_0019'
+redirecting to: LOG_FILE=/tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_009_0019/model.log
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_009_0012
+candle_model_train_container(): running in: /tmp/weaverr/Data/uno_improve/Output/EXP009/run_01_009_0019
+candle_model_train_container(): result(run_01_009_0012): '0.014194315458847664'
+candle_model_train_container(): result(run_01_009_0006): '0.0108706658800804'
+candle_model_train_container(): result(run_01_009_0015): '0.014097679147865196'
+candle_model_train_container(): result(run_01_009_0021): '0.016367616980431803'
+candle_model_train_container(): result(run_01_009_0005): '0.009800429025879267'
+candle_model_train_container(): result(run_01_009_0011): '0.0077111038639578865'
+End rank: 5

@@ -1,0 +1,28 @@
+[
+
+    {
+        "name": "learning_rate",
+        "type": "constant",
+        "value": 0.000023
+    },
+
+    {
+        "name": "batch_size",
+        "type": "constant",
+        "value": 8
+    },
+  
+    {
+      "name": "dropout",
+      "type": "constant",
+      "value": 0.189971
+    },
+
+    {
+        "name": "epochs",
+        "type": "constant",
+        "value": 125
+    }
+  
+]
+  
